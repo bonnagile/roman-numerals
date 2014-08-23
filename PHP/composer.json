@@ -1,0 +1,12 @@
+{
+    "name": "bonnagile/romannumerals",
+    "description": "Roman numerals Coding Dojo",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Kluth",
+            "email": "mail@andreaskluth.net"
+        }
+    ]
+}
